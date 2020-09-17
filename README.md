@@ -15,11 +15,11 @@ https://drive.google.com/drive/folders/1ZoiNauzftXPfXcxUbCaXZfW_SWsHC65B?usp=sha
 # Notebooks
 There are two notebooks availabe in this repository.
 
--
--
+- Data_Processing&Initial_Analysis.ipynb
+- NLP_Sentiment_Analysis.ipynb
 
 # Figures
-Plots and figures generted in the notebooks can be found in the 'Fig' folder
+Plots and figures generted in the notebooks can be found in the 'Figures' folder in the repository
 
 # Blog
 Details of the project can be found in my [Blog](https://nycdatascience.com/blog/student-works/travel-sites-review-web-scraping/) 
